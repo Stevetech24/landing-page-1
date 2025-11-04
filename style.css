@@ -411,6 +411,13 @@ h1 {
 }
 
 /* MEDIA QUERY STARTS */
+@media (max-width: 1200px) {
+  .container {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+/*  */
 @media (max-width: 979px) {
   html {
     font-size: 50%;
@@ -760,6 +767,7 @@ h1 {
     margin-bottom: 16px;
   }
 }
+
 
 
 
